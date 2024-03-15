@@ -5,7 +5,7 @@ Project Credit: [John Smilga](https://www.codingaddict.io/p/react)
 
 [MixMaster Design](https://www.figma.com/community/file/1255860657910062828)
 
-[Live site](https://online-store-qre0.onrender.com/)
+[Live site](https://cocktails-react.onrender.com/)
 
 #### Install and Setup
 
